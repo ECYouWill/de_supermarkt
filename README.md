@@ -2,7 +2,7 @@
 This is a custom map, originally made for CS:GO, but being adapted for Garry's Mod.
 
 ## Adding the correct texture paths
-This map uses textures from both CS:GO, and CS Source. To add the correct paths for these in Hammer, firstly, the *mount.cfg* file in your GMOD folder needs to reference the texture folders of both games. 
+This map uses textures from both CS:GO, and CS Source. To add the correct paths for these in Hammer, firstly, use the *mount.cfg* template provided to update the file in your GMOD folder. It needs to reference the texture folders of both games. 
 
  - The *mount.cfg* file is found in *{STEAMAPPSFOLDER}/common/GarrysMod/garrysmod/cfg*
  - In the mount file, CSGO directory follows *{STEAMAPPSFOLDER}/common/Counter-Strike Global Offensive/csgo*
