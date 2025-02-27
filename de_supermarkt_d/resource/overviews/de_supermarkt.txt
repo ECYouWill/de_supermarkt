@@ -1,0 +1,9 @@
+//Overview: scale 4.00, pos_x -2064, pos_y 2520
+
+"de_supermarkt"
+{
+ "material" "overviews/de_supermarkt"
+ "pos_x"  "-2820"
+ "pos_y"  "2940"
+ "scale"  "5.50"
+}
