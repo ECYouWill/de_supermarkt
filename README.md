@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # de_supermarkt
 This is a custom map, originally made for CS:GO, but being adapted for Garry's Mod.
 
@@ -17,7 +16,6 @@ If CS Source textures are missing, they can be found elsewhere online.
 
 ## Compilation
 In Hammer, select File -> Run Map. Choose normal options for everything, but select *HDR* and *Don't run the game after compiling*.  Click ok and it will compile. After this, check the compiled map is in *{STEAMAPPSFOLDER}/common/GarrysMod/garrysmod/maps/de_supermarkt.bsp*. You should be able to then run the map in GMOD using the in-game console command *map de_supermarkt.bsp*.
-=======
+
 ## de_supermarkt
 This is a custom map, originally made for CS:GO, but being adapted for Garry's Mod.
->>>>>>> bf89f5b94694cf778645a78276dfa52e250a935e
