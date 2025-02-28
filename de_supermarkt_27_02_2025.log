@@ -1,0 +1,58 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\bcflu\Documents\Repositories\Garrysmod\de_supermarkt\de_supermarkt_27_02_2025.vmf
+Can't find surfaceprop asphalt for material CONCRETE/ROADPARKINGLOT, using default
+Can't find surfaceprop wet for material CONCRETE/URBAN_ROAD_01A_CHEAP, using default
+Can't find surfaceprop stucco for material GG_TIBET/CS_TIBET_RED_STONE_01, using default
+Can't find surfaceprop sheetrock for material AR_DIZZY/DIZZY_DRYWALL_COLOR, using default
+Patching WVT material: maps/de_supermarkt_27_02_2025/nature/blend_dirt_concrete_02_wvt_patch
+Patching WVT material: maps/de_supermarkt_27_02_2025/de_dust/hr_dust/hr_dust_plaster_09_wvt_patch
+Patching WVT material: maps/de_supermarkt_27_02_2025/de_nuke/nukblenddirtgrass_wvt_patch
+Patching WVT material: maps/de_supermarkt_27_02_2025/brick/hr_brick/venice/venice_brick_4_blend_3_wvt_patch
+Patching WVT material: maps/de_supermarkt_27_02_2025/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 396 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\bcflu\Documents\Repositories\Garrysmod\de_supermarkt\de_supermarkt_27_02_2025.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1947588 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1331 texinfos to 609
+Reduced 139 texdatas to 117 (6430 bytes to 5665)
+Writing C:\Users\bcflu\Documents\Repositories\Garrysmod\de_supermarkt\de_supermarkt_27_02_2025.bsp
+10 seconds elapsed
+
+
+
+24 threads
+reading c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\de_supermarkt_27_02_2025.bsp
+reading c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\de_supermarkt_27_02_2025.prt
+1498 portalclusters
+5310 numportals
+0...1...2...3...4...5...6...7...8...9...100
