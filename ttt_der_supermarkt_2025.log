@@ -442,3 +442,448 @@ Level flags = 0
 Total triangle count: 17897
 Writing c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\ttt_der_supermarkt_2025.bsp
 17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\bcflu\Documents\Repositories\Garrysmod\de_supermarkt\ttt_der_supermarkt_2025.vmf
+Can't find surfaceprop asphalt for material CONCRETE/ROADPARKINGLOT, using default
+Can't find surfaceprop wet for material CONCRETE/URBAN_ROAD_01A_CHEAP, using default
+Can't find surfaceprop stucco for material GG_TIBET/CS_TIBET_RED_STONE_01, using default
+Can't find surfaceprop sheetrock for material AR_DIZZY/DIZZY_DRYWALL_COLOR, using default
+Patching WVT material: maps/ttt_der_supermarkt_2025/nature/blend_dirt_concrete_02_wvt_patch
+Patching WVT material: maps/ttt_der_supermarkt_2025/de_dust/hr_dust/hr_dust_plaster_09_wvt_patch
+Patching WVT material: maps/ttt_der_supermarkt_2025/de_nuke/nukblenddirtgrass_wvt_patch
+Patching WVT material: maps/ttt_der_supermarkt_2025/brick/hr_brick/venice/venice_brick_4_blend_3_wvt_patch
+Patching WVT material: maps/ttt_der_supermarkt_2025/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 396 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\bcflu\Documents\Repositories\Garrysmod\de_supermarkt\ttt_der_supermarkt_2025.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1964709 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1697 texinfos to 757
+Reduced 153 texdatas to 127 (7026 bytes to 6125)
+Writing C:\Users\bcflu\Documents\Repositories\Garrysmod\de_supermarkt\ttt_der_supermarkt_2025.bsp
+10 seconds elapsed
+
+
+
+24 threads
+reading c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\ttt_der_supermarkt_2025.bsp
+reading c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\ttt_der_supermarkt_2025.prt
+1576 portalclusters
+5539 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 80892 visible clusters (3.88%)
+Total clusters visible: 2084412
+Average clusters visible: 1322
+Building PAS...
+Average clusters audible: 1568
+visdatasize:623253  compressed from 630400
+writing c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\ttt_der_supermarkt_2025.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\ttt_der_supermarkt_2025.bsp
+PREP OK
+Warning! Invalid model version "models/props/cs_militia/ladderrung.mdl"
+Warning! Invalid model version "models/props/cs_office/ladder_office.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_barbwire_002_128.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_001_256.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_fences/dust_chainlink_fence_001_block.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_container_open.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_dumpster.mdl"
+Warning! Invalid model version "models/props_exteriors/wood_porchsteps_02.mdl"
+Warning! Invalid model version "models/props/cs_assault/fencewarehouse_rail_64.mdl"
+Warning! Invalid model version "models/props/de_inferno/hr_i/wood_pole_a/wood_pole_a1.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_128x112x256_e.mdl"
+Warning! Invalid model version "models/props/de_dust/dust_rusty_barrel.mdl"
+Warning! Invalid model version "models/props/de_inferno/hr_i/car_a/car_a.mdl"
+Warning! Invalid model version "models/props/de_inferno/hr_i/car_a/car_a_details.mdl"
+Warning! Invalid model version "models/props/de_inferno/hr_i/car_a/car_a_glass.mdl"
+Warning! Invalid model version "models/props/de_tides/truck.mdl"
+Warning! Invalid model version "models/props_equipment/cargo_container01.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_shelf/dust_shelf_wood_64.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_shelf/dust_shelf_wood_32.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_shelf/dust_shelf_bracket_pair_64.mdl"
+Warning! Invalid model version "models/props/de_inferno/hr_i/pillar_a/pillar_a.mdl"
+Warning! Invalid model version "models/cs_italy/italy_signs_post.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_concrete_barrier/nuke_concrete_barrier.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_crates/dust_wooden_fruit_crate_stack_01.mdl"
+Warning! Invalid model version "models/props/de_venice/venice_police_barrier/venice_police_barrier.mdl"
+Warning! Invalid model version "models/props/de_venice/venice_police_barrier/venice_police_barrier_taped_02.mdl"
+Warning! Invalid model version "models/props_urban/outhouse002.mdl"
+Warning! Invalid model version "models/props_vehicles/cara_69sedan.mdl"
+Warning! Invalid model version "models/props_vehicles/truck_low_flatbed.mdl"
+Warning! Invalid model version "models/props_vehicles/longnose_truck.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/foliage/bushes_viburnum_03.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/foliage/tree_small_beech_02.mdl"
+Warning! Invalid model version "models/props/de_inferno/bench_wood.mdl"
+Warning! Invalid model version "models/props/de_inferno/hr_i/inferno_bike/inferno_bike_03.mdl"
+Warning! Invalid model version "models/props_urban/dock_pylon_clamp001.mdl"
+Warning! Invalid model version "models/props/gg_vietnam/bicycle_with_basket.mdl"
+Warning! Invalid model version "models/props/de_venice/venice_police_barrier/venice_police_barrier_taped.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_cars/nuke_truck_01.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_cars/nuke_truck_01_trailer.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/stains/nuke_oil_puddle01.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_metal_bollard/nuke_metal_bollard.mdl"
+Warning! Invalid model version "models/props/de_overpass/overpass_billboard.mdl"
+Warning! Invalid model version "models/props_street/bus_stop.mdl"
+Warning! Invalid model version "models/props/cs_assault/floodlight01_on.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_lights/dust_street_lamp_03.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_crates/dust_plastic_fruit_crate.mdl"
+Warning! Invalid model version "models/props/cs_italy/it_mkt_shelf1.mdl"
+Warning! Invalid model version "models/props_urban/garbage_can001.mdl"
+Warning! Invalid model version "models/props/de_train/handrail_alley-upperdeck.mdl"
+Warning! Invalid model version "models/props/cs_office/chair_office.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_desk.mdl"
+Warning! Invalid model version "models/props/cs_office/computer.mdl"
+Warning! Invalid model version "models/props/coop_cementplant/coop_shelf/coop_shelf.mdl"
+Warning! Invalid model version "models/props/cs_assault/box_stack1.mdl"
+Warning! Invalid model version "models/props/cs_militia/boxes_frontroom.mdl"
+Warning! Invalid model version "models/props_rooftop/billboard01.mdl"
+Warning! Invalid model version "models/props_unique/airport/phone_booth_airport.mdl"
+Warning! Invalid model version "models/props/cs_assault/light_shop2.mdl"
+Warning! Invalid model version "models/props/de_train/handrail_singlespan_128.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_cars/nuke_sedan02_low.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon01_low.mdl"
+Warning! Invalid model version "models/props_vehicles/semi_trailer_freestanding.mdl"
+Warning! Invalid model version "models/props/de_nuke/truck_nuke.mdl"
+Warning! Invalid model version "models/props_vehicles/flatnose_truck.mdl"
+Warning! Invalid model version "models/props_urban/fire_escape_upper.mdl"
+Warning! Invalid model version "models/props_crates/static_crate_40.mdl"
+Warning! Invalid model version "models/props_industrial/warehouse_shelf002.mdl"
+Warning! Invalid model version "models/props_industrial/warehouse_shelf004.mdl"
+6300 faces
+2 degenerate faces
+1058978 square feet [152492832.00 square inches]
+29 Displacements
+8699 Square Feet [1252729.25 Square Inches]
+6298 patches before subdivision
+76652 patches after subdivision
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6527620, max 1338
+transfer lists:  49.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(443803, 423901, 286852)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(99989, 90500, 51447)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(22707, 19961, 10027)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6120, 5193, 2251)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1676, 1373, 520)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(493, 390, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(151, 115, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(49, 36, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(17, 12, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0148 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  23/4096         1104/196608   ( 0.6%) 
+brushes               1037/16384       12444/196608   ( 6.3%) 
+brushsides           10752/163840      86016/1310720  ( 6.6%) 
+planes               11262/65536      225240/1310720  (17.2%) 
+vertexes              8795/65536      105540/786432   (13.4%) 
+nodes                 3031/65536       96992/2097152  ( 4.6%) 
+texinfos               757/16384       54504/1179648  ( 4.6%) 
+texdata                127/8192         4064/262144   ( 1.6%) 
+dispinfos               29/0            5104/0        ( 0.0%) 
+disp_verts            7965/0          159300/0        ( 0.0%) 
+disp_tris            14080/0           28160/0        ( 0.0%) 
+disp_lmsamples       27340/0           27340/0        ( 0.0%) 
+faces                 6300/65536      352800/3670016  ( 9.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3624/65536      202944/3670016  ( 5.5%) 
+leaves                3055/65536       97760/2097152  ( 4.7%) 
+leaffaces             8934/65536       17868/131072   (13.6%) 
+leafbrushes           3486/65536        6972/131072   ( 5.3%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            45626/512000     182504/2048000  ( 8.9%) 
+edges                25407/256000     101628/1024000  ( 9.9%) 
+LDR worldlights         62/8192         5456/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            845/32768        8450/327680   ( 2.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         14763/65536       29526/131072   (22.5%) 
+cubemapsamples          12/1024          192/16384    ( 1.2%) 
+overlays                 2/8192          704/2883584  ( 0.0%) 
+LDR lightdata         [variable]     4044896/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      623253/16777216 ( 3.7%) 
+entdata               [variable]       94559/393216   (24.0%) 
+LDR ambient table     3055/65536       12220/262144   ( 4.7%) 
+HDR ambient table     3055/65536       12220/262144   ( 4.7%) 
+LDR leaf ambient     12627/65536      353556/1835008  (19.3%) 
+HDR leaf ambient      3055/65536       85540/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/67354    ( 0.0%) 
+pakfile               [variable]     1098104/0        ( 0.0%) 
+physics               [variable]     1964709/4194304  (46.8%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 18937
+Writing c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\ttt_der_supermarkt_2025.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\bcflu\Documents\Repositories\Garrysmod\de_supermarkt\ttt_der_supermarkt_2025.vmf
+Can't find surfaceprop asphalt for material CONCRETE/ROADPARKINGLOT, using default
+Can't find surfaceprop wet for material CONCRETE/URBAN_ROAD_01A_CHEAP, using default
+Can't find surfaceprop stucco for material GG_TIBET/CS_TIBET_RED_STONE_01, using default
+Can't find surfaceprop sheetrock for material AR_DIZZY/DIZZY_DRYWALL_COLOR, using default
+Patching WVT material: maps/ttt_der_supermarkt_2025/nature/blend_dirt_concrete_02_wvt_patch
+Patching WVT material: maps/ttt_der_supermarkt_2025/de_dust/hr_dust/hr_dust_plaster_09_wvt_patch
+Patching WVT material: maps/ttt_der_supermarkt_2025/de_nuke/nukblenddirtgrass_wvt_patch
+Patching WVT material: maps/ttt_der_supermarkt_2025/brick/hr_brick/venice/venice_brick_4_blend_3_wvt_patch
+Patching WVT material: maps/ttt_der_supermarkt_2025/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 396 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\bcflu\Documents\Repositories\Garrysmod\de_supermarkt\ttt_der_supermarkt_2025.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (2025221 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2022 texinfos to 897
+Reduced 156 texdatas to 131 (7215 bytes to 6376)
+Writing C:\Users\bcflu\Documents\Repositories\Garrysmod\de_supermarkt\ttt_der_supermarkt_2025.bsp
+11 seconds elapsed
+
+
+
+24 threads
+reading c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\ttt_der_supermarkt_2025.bsp
+reading c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\ttt_der_supermarkt_2025.prt
+2130 portalclusters
+7560 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 211130 visible clusters (5.99%)
+Total clusters visible: 3522350
+Average clusters visible: 1653
+Building PAS...
+Average clusters audible: 2121
+visdatasize:1117726  compressed from 1158720
+writing c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\ttt_der_supermarkt_2025.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\ttt_der_supermarkt_2025.bsp
+PREP OK
+Warning! Invalid model version "models/props/cs_militia/ladderrung.mdl"
+Warning! Invalid model version "models/props/cs_office/ladder_office.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_barbwire_002_128.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_001_256.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_fences/dust_chainlink_fence_001_block.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_container_open.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_dumpster.mdl"
+Warning! Invalid model version "models/props_exteriors/wood_porchsteps_02.mdl"
+Warning! Invalid model version "models/props/cs_assault/fencewarehouse_rail_64.mdl"
+Warning! Invalid model version "models/props/de_inferno/hr_i/wood_pole_a/wood_pole_a1.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_128x112x256_e.mdl"
+Warning! Invalid model version "models/props/de_dust/dust_rusty_barrel.mdl"
+Warning! Invalid model version "models/props/de_inferno/hr_i/car_a/car_a.mdl"
+Warning! Invalid model version "models/props/de_inferno/hr_i/car_a/car_a_details.mdl"
+Warning! Invalid model version "models/props/de_inferno/hr_i/car_a/car_a_glass.mdl"
+Warning! Invalid model version "models/props/de_tides/truck.mdl"
+Warning! Invalid model version "models/props_equipment/cargo_container01.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_shelf/dust_shelf_wood_64.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_shelf/dust_shelf_wood_32.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_shelf/dust_shelf_bracket_pair_64.mdl"
+Warning! Invalid model version "models/props/de_inferno/hr_i/pillar_a/pillar_a.mdl"
+Warning! Invalid model version "models/cs_italy/italy_signs_post.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_concrete_barrier/nuke_concrete_barrier.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_crates/dust_wooden_fruit_crate_stack_01.mdl"
+Warning! Invalid model version "models/props/de_venice/venice_police_barrier/venice_police_barrier.mdl"
+Warning! Invalid model version "models/props/de_venice/venice_police_barrier/venice_police_barrier_taped_02.mdl"
+Warning! Invalid model version "models/props_urban/outhouse002.mdl"
+Warning! Invalid model version "models/props_vehicles/cara_69sedan.mdl"
+Warning! Invalid model version "models/props_vehicles/truck_low_flatbed.mdl"
+Warning! Invalid model version "models/props_vehicles/longnose_truck.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/foliage/bushes_viburnum_03.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/foliage/tree_small_beech_02.mdl"
+Warning! Invalid model version "models/props/de_inferno/bench_wood.mdl"
+Warning! Invalid model version "models/props/de_inferno/hr_i/inferno_bike/inferno_bike_03.mdl"
+Warning! Invalid model version "models/props_urban/dock_pylon_clamp001.mdl"
+Warning! Invalid model version "models/props/gg_vietnam/bicycle_with_basket.mdl"
+Warning! Invalid model version "models/props/de_venice/venice_police_barrier/venice_police_barrier_taped.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/stains/nuke_oil_puddle01.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_metal_bollard/nuke_metal_bollard.mdl"
+Warning! Invalid model version "models/props/de_overpass/overpass_billboard.mdl"
+Warning! Invalid model version "models/props_street/bus_stop.mdl"
+Warning! Invalid model version "models/props/cs_assault/floodlight01_on.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_lights/dust_street_lamp_03.mdl"
+Warning! Invalid model version "models/props/de_dust/hr_dust/dust_crates/dust_plastic_fruit_crate.mdl"
+Warning! Invalid model version "models/props/cs_italy/it_mkt_shelf1.mdl"
+Warning! Invalid model version "models/props_urban/garbage_can001.mdl"
+Warning! Invalid model version "models/props/de_train/handrail_alley-upperdeck.mdl"
+Warning! Invalid model version "models/props/cs_office/chair_office.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_desk.mdl"
+Warning! Invalid model version "models/props/cs_office/computer.mdl"
+Warning! Invalid model version "models/props/coop_cementplant/coop_shelf/coop_shelf.mdl"
+Warning! Invalid model version "models/props/cs_assault/box_stack1.mdl"
+Warning! Invalid model version "models/props/cs_militia/boxes_frontroom.mdl"
+Warning! Invalid model version "models/props_rooftop/billboard01.mdl"
+Warning! Invalid model version "models/props_unique/airport/phone_booth_airport.mdl"
+Warning! Invalid model version "models/props/cs_assault/light_shop2.mdl"
+Warning! Invalid model version "models/props/de_train/handrail_singlespan_128.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_cars/nuke_sedan02_low.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_cars/nuke_station_wagon01_low.mdl"
+Warning! Invalid model version "models/props_vehicles/semi_trailer_freestanding.mdl"
+Warning! Invalid model version "models/props/de_nuke/truck_nuke.mdl"
+Warning! Invalid model version "models/props_vehicles/flatnose_truck.mdl"
+Warning! Invalid model version "models/props_urban/fire_escape_upper.mdl"
+Warning! Invalid model version "models/props_crates/static_crate_40.mdl"
+Warning! Invalid model version "models/props_industrial/warehouse_shelf002.mdl"
+Warning! Invalid model version "models/props_industrial/warehouse_shelf004.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_cars/nuke_truck_01_trailer.mdl"
+Warning! Invalid model version "models/props/de_nuke/hr_nuke/nuke_cars/nuke_truck_01.mdl"
+7661 faces
+4 degenerate faces
+1063864 square feet [153196416.00 square inches]
+29 Displacements
+8699 Square Feet [1252729.25 Square Inches]
+7657 patches before subdivision
+79893 patches after subdivision
+68 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7572911, max 1452
+transfer lists:  57.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(477192, 454190, 307888)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(111201, 100402, 57514)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(26450, 23090, 11679)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7512, 6305, 2755)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2204, 1774, 675)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(698, 538, 177)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(231, 170, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(81, 57, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(29, 20, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 7, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(4, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0151 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  23/4096         1104/196608   ( 0.6%) 
+brushes               1181/16384       14172/196608   ( 7.2%) 
+brushsides           12341/163840      98728/1310720  ( 7.5%) 
+planes               12132/65536      242640/1310720  (18.5%) 
+vertexes             10961/65536      131532/786432   (16.7%) 
+nodes                 3951/65536      126432/2097152  ( 6.0%) 
+texinfos               897/16384       64584/1179648  ( 5.5%) 
+texdata                131/8192         4192/262144   ( 1.6%) 
+dispinfos               29/0            5104/0        ( 0.0%) 
+disp_verts            7965/0          159300/0        ( 0.0%) 
+disp_tris            14080/0           28160/0        ( 0.0%) 
+disp_lmsamples       27340/0           27340/0        ( 0.0%) 
+faces                 7661/65536      429016/3670016  (11.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4119/65536      230664/3670016  ( 6.3%) 
+leaves                3975/65536      127200/2097152  ( 6.1%) 
+leaffaces            10573/65536       21146/131072   (16.1%) 
+leafbrushes           4098/65536        8196/131072   ( 6.3%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            54925/512000     219700/2048000  (10.7%) 
+edges                30577/256000     122308/1024000  (11.9%) 
+LDR worldlights         68/8192         5984/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1040/32768       10400/327680   ( 3.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         18171/65536       36342/131072   (27.7%) 
+cubemapsamples          12/1024          192/16384    ( 1.2%) 
+overlays                 2/8192          704/2883584  ( 0.0%) 
+LDR lightdata         [variable]     4485312/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1117726/16777216 ( 6.7%) 
+entdata               [variable]       96544/393216   (24.6%) 
+LDR ambient table     3975/65536       15900/262144   ( 6.1%) 
+HDR ambient table     3975/65536       15900/262144   ( 6.1%) 
+LDR leaf ambient     15054/65536      421512/1835008  (23.0%) 
+HDR leaf ambient      3975/65536      111300/1835008  ( 6.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/67702    ( 0.0%) 
+pakfile               [variable]     1099220/0        ( 0.0%) 
+physics               [variable]     2025221/4194304  (48.3%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 23404
+Writing c:\users\bcflu\documents\repositories\garrysmod\de_supermarkt\ttt_der_supermarkt_2025.bsp
+20 seconds elapsed
