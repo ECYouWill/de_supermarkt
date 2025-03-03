@@ -17,5 +17,8 @@ If CS Source textures are missing, they can be found elsewhere online.
 ## Compilation
 In Hammer, select File -> Run Map. Choose normal options for everything, but select *HDR* and *Don't run the game after compiling*.  Click ok and it will compile. After this, check the compiled map is in *{STEAMAPPSFOLDER}/common/GarrysMod/garrysmod/maps/de_supermarkt.bsp*. You should be able to then run the map in GMOD using the in-game console command *map de_supermarkt.bsp*.
 
+## TTT Specific
+*ttt.fgd* needs to be added to the *{STEAMAPPSFOLDER}/common/GarrysMod/garrysmod/materials* folder, before going into *tools->options->Game Data Files* and adding the TTT fgd file we just put in the materials file. This will let you see the correct TTT objects in hammer.
+
 ## de_supermarkt
 This is a custom map, originally made for CS:GO, but being adapted for Garry's Mod.
