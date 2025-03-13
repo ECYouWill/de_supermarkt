@@ -1,6 +1,8 @@
 # de_supermarkt
 This is a custom map, originally made for CS:GO, but being adapted for Garry's Mod.
 
+The steam workshop listing is: https://steamcommunity.com/sharedfiles/filedetails/?id=3443674966
+
 ## Adding the correct texture paths
 This map uses textures from both CS:GO, and CS Source. To add the correct paths for these in Hammer, firstly, use the *mount.cfg* template provided to update the file in your GMOD folder. It needs to reference the texture folders of both games. 
 
