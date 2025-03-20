@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "anubis/models/structures/stone_blocks"
+	$bumpmap "anubis/models/structures/stone_blocks_nrm"
+
+	$detail "detail/detail_rock001"
+	$detailscale 2
+	$detailblendfactor 0.2
+}
