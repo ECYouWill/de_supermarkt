@@ -4,7 +4,7 @@
 
 	"$bumpmap" "ar_dizzy\dizzy_drywall_normal"
 
-	"$surfaceprop"         "sheetrock"
+	"$surfaceprop"         "rock"
 	//"$phongexponent" "1"
 	//"$phongtint" "[1 1 1]"
 	//"$phongboost" "1"
