@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTexture
+	"$basetexture" "skybox/customsky_day01_07up"
+	"$nofog" 1
+	$ignorez 1
+	$basetexturetransform "center 0 0 scale 1 1  rotate 180 translate 1 1"
+
+}
