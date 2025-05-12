@@ -1,4 +1,5 @@
 ﻿*.log
-*.bsp
 *.prt
 *.vmx
+*.bsp
+!map_versions/*.bsp
