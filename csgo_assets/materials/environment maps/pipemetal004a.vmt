@@ -1,4 +1,4 @@
-"VertexLitGeneric"
+"LightmappedGeneric"
 {
 	// Original shader: BaseTimesLightmap
 	"$basetexture" "Models/props_pipes/PipeMetal004a"
