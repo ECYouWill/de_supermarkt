@@ -1,0 +1,14 @@
+"Water"
+{
+    "$basetexture" "custom/baked_beans"
+    "$abovewater" "1"
+    "%compilewater" 1
+    "$surfaceprop" "water"
+    "$envmap" "env_cubemap"
+    "$fogenable" 1
+    "$fogcolor" "{150 100 50}"
+    "$fogstart" 1.00
+    "$fogend" 400.00
+    "$normalmap" "custom/baked_beans_normal"
+    "$bumpmap" "custom/baked_beans_normal"
+}
