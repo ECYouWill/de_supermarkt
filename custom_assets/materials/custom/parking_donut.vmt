@@ -1,4 +1,5 @@
 "LightmappedGeneric"
 {
-	"$basetexture" "Custom/parking_donut"
+	"$basetexture" "custom/parking_donut"
+	"$translucent" 1
 }
