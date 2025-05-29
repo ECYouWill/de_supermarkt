@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "custom/roadparkinglot_slippery"
+	"$surfaceprop" "metal_bouncy"
+}
