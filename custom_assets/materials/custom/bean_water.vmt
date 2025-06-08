@@ -11,4 +11,5 @@
     "$fogend" 400.00
     "$normalmap" "custom/baked_beans_normal"
     "$bumpmap" "custom/baked_beans_normal"
+	"$bottommaterial" "dev/dev_waterbeneath2"
 }
