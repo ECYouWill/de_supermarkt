@@ -1,4 +1,5 @@
 particles_manifest
 {	
-	"file"		"particles/particles.pcf"
+	"file"		"particles/de_supermarkt/particles.pcf"
+	"file"		"particles/de_supermarkt/gg_baggage.pcf"
 }
