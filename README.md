@@ -22,5 +22,9 @@ In Hammer, select File -> Run Map. Choose normal options for everything, but sel
 ## TTT Specific
 *ttt.fgd* needs to be added to the *{STEAMAPPSFOLDER}/common/GarrysMod/garrysmod/materials* folder, before going into *tools->options->Game Data Files* and adding the TTT fgd file we just put in the materials file. This will let you see the correct TTT objects in hammer.
 
-## de_supermarkt
-This is a custom map, originally made for CS:GO, but being adapted for Garry's Mod.
+## Custom Particle Effects
+There are a few custom particle effects, in *custom_assets/particles/...*. To enable these to work correctly in your game, you need to add the particle *.pcf* to the folder *{STEAMAPPSFOLDER}/common/GarrysMod/garrysmod/particles*. Then add references to the *particles_manifest.txt*, using the same style as the one in this repository.
+
+For example:
+  -  *custom_assets/particles/de_supermarkt/particles.pcf* is copied to *{STEAMAPPSFOLDER}/common/GarrysMod/garrysmod/particles/de_supermarkt/particles.pcf*
+  -  The line *"file"		"particles/de_supermarkt/particles.pcf"* is added to *{STEAMAPPSFOLDER}/common/GarrysMod/garrysmod/particles/particles_manifest.txt*
