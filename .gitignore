@@ -3,3 +3,5 @@
 *.vmx
 *.bsp
 !map_versions/*.bsp
+/old
+*.bsp_old
